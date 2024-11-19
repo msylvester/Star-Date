@@ -1,0 +1,14 @@
+ing repos for bradtraversy...
+Top GitHub Users by Total Stars:
+1. microsoft - 2942753 stars - https://github.com/microsoft
+2. openai - 518698 stars - https://github.com/openai
+3. karpathy - 226177 stars - https://github.com/karpathy
+4. torvalds - 185671 stars - https://github.com/torvalds
+5. bradtraversy - 169315 stars - https://github.com/bradtraversy
+6. ruanyf - 159742 stars - https://github.com/ruanyf
+7. peng-zhihui - 77774 stars - https://github.com/peng-zhihui
+8. gaearon - 46077 stars - https://github.com/gaearon
+9. gustavoguanabara - 25014 stars - https://github.com/gustavoguanabara
+10. yyx990803 - 16999 stars - https://github.com/yyx990803
+(myenv) (base) mikress@mikrs-Mac-Studio stars % 
+
