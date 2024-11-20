@@ -36,4 +36,3 @@ Earn 30 stars or more to display your full image! 🌠
    npm start
    ```
 
----
