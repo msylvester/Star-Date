@@ -1,0 +1,88 @@
+/* GitHubProfile.css */
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid #333;
+    border-radius: 10px;
+    max-width: 400px;
+    margin: 30px auto;
+    background-color: #1e1e2f;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    font-family: 'Poppins', sans-serif;
+    color: #f0f0f0;
+  }
+  
+  .inputContainer {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  
+  .input {
+    flex: 1;
+    padding: 12px;
+    font-size: 16px;
+    border: 2px solid #444;
+    border-radius: 25px;
+    margin-right: 10px;
+    outline: none;
+    background-color: #2a2a3b;
+    color: #f0f0f0;
+    transition: border-color 0.3s;
+  }
+  
+  .button {
+    padding: 12px 25px;
+    font-size: 16px;
+    background-color: #444;
+    color: #f0f0f0;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    outline: none;
+  }
+  
+  .button:hover {
+    background-color: #666;
+  }
+  
+  .avatarContainer {
+    width: 200px;
+    overflow: hidden;
+    transition: height 0.5s ease-in-out;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    border: 4px solid #444;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  }
+  
+  .avatar {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+  }
+  
+  .text {
+    color: #f0f0f0;
+    margin: 10px 0;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+  }
+  
+  .link {
+    color: #00aaff;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+  }
+  
+  .link:hover {
+    color: #66d9ff;
+  }
+  
